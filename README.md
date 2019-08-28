@@ -20,6 +20,9 @@ I like the mini map and weapons display in ace combat
 Like aerofighters in terms of graphical complexity but with the ability to turn and fly around a map instead of being locked into a single directional scroller
 ![](./aerofighters.jpeg "Aerofighters")
 
+I like the pseudo 3d flight in. Maybe with the camera angled down more so that the horizon isnt shown
+[![DBZ flying](./dbzFlying.png)](https://youtu.be/C_i1suIb5Cw?t=6483 "DBZ flying example")
+
 
 ### Themes
 
@@ -52,12 +55,16 @@ retro?
 ### Name Ideas:
 
 Aileron (I like this one)
-Dogfight
-Skywar
-Ace... something
+
+Dogfight Skywar Ace
 
 ### Mechanics
 #### Controls
+wasd to turn, accelerate, decelerate
+
+shift, space, ctrl, alt to shoot, use missiles, bomb 
+
+arrow keys, ijkl to shift camera around
 #### View
 
 "chessboard on a lazy susan"
@@ -67,6 +74,8 @@ Ace... something
 Linux, windows, mac platforms
 
 2d or 3d engine locked in plane?
+
+Maybe 3d voxel planes with 2.5d sprite environment 
 
 assets available for both. more for 3d
 
