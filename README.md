@@ -20,7 +20,7 @@ I like the mini map and weapons display in ace combat
 Like aerofighters in terms of graphical complexity but with the ability to turn and fly around a map instead of being locked into a single directional scroller
 ![](./aerofighters.jpeg "Aerofighters")
 
-I like the pseudo 3d flight in Dragonball Z: Leagacy of Goku 2. Maybe with the camera angled down more so that the horizon isnt shown
+I like the pseudo 3d flight in Dragonball Z: Leagacy of Goku 2. Maybe with the camera angled down more so that the horizon isnt shown. Replace Piccolo with a fighter jet, throw in some things to shoot at, and mountains/buildings/enemies to crash into then we'll have exactly what im looking for 
 [![DBZ flying](./dbzFlying.png)](https://youtu.be/C_i1suIb5Cw?t=6483 "DBZ flying example")
 
 
@@ -51,6 +51,7 @@ retro?
 - stretch: levels, buy upgrades to plane between levels
 - win condition: kill all enemies, complete all objectives
 - lose condition: get shot down, fail objective
+- stretch: multi player. Co op, Vs
  
 ### Name Ideas:
 
