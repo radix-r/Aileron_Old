@@ -10,7 +10,7 @@ I enjoy shoot em ups like Bytepath but feel restricted by the locked screen view
 ![ ](./bytepath.jpg "Bytepath")
 
 
-Like afterBurner but more top down or isometric and restricted to one horizontal plane of action
+Like afterBurner but more top down or isometric and restricted to one horizontal plane of action. No pitch, only yaw
 ![ ](./afterBurner.jpeg  "AfterBurner")
 
 
@@ -20,7 +20,7 @@ I like the mini map and weapons display in ace combat
 Like aerofighters in terms of graphical complexity but with the ability to turn and fly around a map instead of being locked into a single directional scroller
 ![](./aerofighters.jpeg "Aerofighters")
 
-I like the pseudo 3d flight in. Maybe with the camera angled down more so that the horizon isnt shown
+I like the pseudo 3d flight in Dragonball Z: Leagacy of Goku 2. Maybe with the camera angled down more so that the horizon isnt shown
 [![DBZ flying](./dbzFlying.png)](https://youtu.be/C_i1suIb5Cw?t=6483 "DBZ flying example")
 
 
