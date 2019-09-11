@@ -1,0 +1,56 @@
+AI 4 games notes 9/9
+=======================
+
+Unity 
+	great engine 
+
+	space shooter
+
+	changes
+		updates
+		change code for modern version
+
+	viewing frustum 
+		volume that camera sees
+
+		perspective: pyramidal
+		orthographic: rectangular prism 
+
+	uv mapping: wrapping 2d image over 3d model
+
+	what is the unit? meters 
+
+	mesh renderer: 3d model
+
+	shader: artwork code
+		glow 
+
+	unity colab source control
+
+	unity visual studio plug-in 
+		ugh Microsoft   
+
+	serialized Fields: available in editor
+
+	AvatarManipulator : MonoBehavior
+		monoBehavior parent
+
+	start() from monobehavior
+		called after constructor
+
+	Capitalize variables that are public or available to editor
+
+	memoizaion 
+
+	update()
+		visual rendering
+
+	fixed update() on time interval 
+		good with physics 
+
+	order controllers
+
+	git and unity
+		hidden files in 
+		use unity colab
+	svn 
