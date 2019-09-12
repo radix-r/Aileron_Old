@@ -23,4 +23,15 @@ Unity store, Youtube,
 
 ## Division of labor
 
-Morgan: 
+Morgan: Textures, music, backgrounds
+
+Ross: 3D modesl, programming
+
+Zach:
+
+Joradn:
+
+## Schedule
+
+## First playable commitments 
+ 
