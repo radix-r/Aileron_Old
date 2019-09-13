@@ -17,7 +17,7 @@ I like the pseudo 3d flight in Dragonball Z: Leagacy of Goku 2. Maybe with the c
 
 PC: Windows, Linux
 
-## plan for art and audio content for the game
+## Plan for art and audio content for the game
 
 Unity store, Youtube, 
 
