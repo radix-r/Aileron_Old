@@ -15,23 +15,44 @@ I like the pseudo 3d flight in Dragonball Z: Leagacy of Goku 2. Maybe with the c
 
 ## Platforms
 
-PC: Windows, Linux
+PC: Windows, Linux, Mac
 
 ## Plan for art and audio content for the game
 
-Unity store, Youtube, 
+Unity store, YouTube, https://opengameart.org/
 
 ## Division of labor
 
 Morgan: Textures, music, backgrounds
 
-Ross: 3D modesl, programming
+Ross: 3D models, programming, administrative 
 
-Zach:
+Zach: Website 
 
-Joradn:
+Jordan: programming, audio, sound effects 
 
 ## Schedule
 
+
+![](./sch1.png) 
+
+![](./schedule2.png)
+
+
 ## First playable commitments 
- 
+
+* One level
+* 2 enemy types
+* 1 weapon type
+* 1 Boss
+* 1 Ally type
+* 1 building
+* 1 Environmental hazard
+* 1 song
+* Player ship textured
+* Start screen/logo
+* 3 sound effects
+* 1 Big Boss soundtrack
+* Gamepad support
+* Player movement
+* Win/Loss state (1 Objective)
