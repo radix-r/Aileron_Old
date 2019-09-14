@@ -10,8 +10,11 @@ https://assetstore.unity.com/packages/3d/environments/sci-fi/planet-earth-13783
 Terrain 
 
 https://assetstore.unity.com/packages/3d/vegetation/lowpoly-trees-and-rocks-88376 
+https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479
+https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-ruins-pack-147636
 https://assetstore.unity.com/packages/3d/environments/landscapes/grassy-valley-terrains-60497
 https://assetstore.unity.com/packages/3d/environments/landscapes/mountain-terrain-rock-tree-97905
+https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410
 
 Textures
 
