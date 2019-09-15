@@ -37,10 +37,25 @@ Progress as of 9/13/2019
 ## Platforms
 
 PC: Windows, Linux, Mac
+Game Controls: Regular arrow keys, WASD and game controller.
 
 ## Plan for art and audio content for the game
 
 Unity store, YouTube, https://opengameart.org/
+
+![](./Ship1.jpg) 
+
+![](./Ship2.jpg) 
+
+![](./GreenPas.jpg)
+
+![](./Ruins1.jpg)
+
+![](./Space1.jpg)
+
+![](./Space2.jpg)
+
+Synthetic heavy soundtracks.
 
 ## Division of labor
 
