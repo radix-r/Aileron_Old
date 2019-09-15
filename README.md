@@ -46,7 +46,7 @@ Morgan: Textures, music, backgrounds
 
 Ross: 3D models, programming, administrative 
 
-Zach: Website 
+Zach: Website, programming
 
 Jordan: programming, audio, sound effects 
 
