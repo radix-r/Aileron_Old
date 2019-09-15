@@ -1,5 +1,7 @@
 # Aileron Proposal 
 
+Blog site: https://aileron742638168.wordpress.com/?frame-nonce=a4b5edb8f5
+
 ## Overview
 
 Ale-er-on
@@ -46,7 +48,7 @@ Morgan: Textures, music, backgrounds
 
 Ross: 3D models, programming, administrative 
 
-Zach: Website, programming
+Zach: Website 
 
 Jordan: programming, audio, sound effects 
 
