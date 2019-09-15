@@ -23,9 +23,13 @@ Progress as of 9/13/2019
 #### Narrative arc
 
 4 levels
+
 1: Defend allies from attacking aliens
+
 2: Race to extract evacuating civilians 
+
 3: Defend the railgun on the Moon
+
 4: Attack alien mothership 
 
 ## Platforms
