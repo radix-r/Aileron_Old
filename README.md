@@ -18,11 +18,9 @@ I like the pseudo 3d flight in Dragonball Z: Leagacy of Goku 2. Maybe with the c
 [![DBZ flying](./dbzFlying.png)](https://youtu.be/C_i1suIb5Cw?t=6483 "DBZ flying example")
 
 
-<<<<<<< HEAD
-Progress as of 9/15/2019 
-=======
+
 Progress as of 9/15/2019
->>>>>>> cb5e04f4fab5af2c5b19c170615c0f8f866bde7b
+
 
 ![](./demo1.gif)
 
