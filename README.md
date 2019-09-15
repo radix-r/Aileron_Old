@@ -58,7 +58,9 @@ Unity store, YouTube, https://opengameart.org/
 
 ![](./Space2.jpg)
 
-Synthesizer heavy soundtracks.
+* Synthesizer heavy soundtracks. 
+* Repetitive synthesizers for battle music (du du du, wa wa wa).
+* Dirty synths that slap hard for boss music.
 
 ## Division of labor
 
