@@ -18,9 +18,9 @@ I like the pseudo 3d flight in Dragonball Z: Leagacy of Goku 2. Maybe with the c
 [![DBZ flying](./dbzFlying.png)](https://youtu.be/C_i1suIb5Cw?t=6483 "DBZ flying example")
 
 
-Progress as of 9/13/2019
+Progress as of 9/15/2019
 
-![](./demo0.gif)
+![](./demo1.gif)
 
 #### Narrative arc
 
