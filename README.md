@@ -58,7 +58,7 @@ Unity store, YouTube, https://opengameart.org/
 
 ![](./Space2.jpg)
 
-Synthetic heavy soundtracks.
+Synthesizer heavy soundtracks.
 
 ## Division of labor
 
