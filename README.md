@@ -37,6 +37,7 @@ Progress as of 9/13/2019
 ## Platforms
 
 PC: Windows, Linux, Mac
+
 Game Controls: Regular arrow keys, WASD and game controller.
 
 ## Plan for art and audio content for the game
