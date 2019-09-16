@@ -1,4 +1,4 @@
-# Aileron Proposal 
+# Team 13: Aileron Proposal 
 
 Blog site: https://aileron742638168.wordpress.com/?frame-nonce=a4b5edb8f5
 
@@ -100,4 +100,3 @@ Jordan: programming, audio, sound effects
 * Controller support
 * Player movement
 * Win/Loss state (1 Objective)
-* 1 weapon type
