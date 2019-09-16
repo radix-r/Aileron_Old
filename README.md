@@ -1,4 +1,4 @@
-# Team 13 Aileron Proposal 
+# Team 13: Aileron Proposal 
 
 Blog site: https://aileron742638168.wordpress.com/?frame-nonce=a4b5edb8f5
 
