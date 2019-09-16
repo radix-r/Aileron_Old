@@ -100,4 +100,3 @@ Jordan: programming, audio, sound effects
 * Controller support
 * Player movement
 * Win/Loss state (1 Objective)
-* 1 weapon type
