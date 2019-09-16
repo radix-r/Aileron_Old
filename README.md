@@ -52,11 +52,15 @@ Unity store, YouTube, https://opengameart.org/
 
 ![](./GreenPas.jpg)
 
-![](./Ruins1.jpg)
-
 ![](./Space1.jpg)
 
 ![](./Space2.jpg)
+
+Here is what we currently have for our desert scene.
+
+![](./Overview.png)
+
+![](./Sneakpeek.png)
 
 * Synthesizer heavy soundtracks. 
 * Repetitive synthesizers for battle music (du du du, wa wa wa).
