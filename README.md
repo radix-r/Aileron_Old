@@ -19,10 +19,10 @@ I like the pseudo 3d flight in Dragonball Z: Leagacy of Goku 2. Maybe with the c
 
 
 
-Progress as of 9/15/2019
+Progress as of 9/16/2019
 
 
-![](./demo1.gif)
+![](./demo2.gif)
 
 #### Narrative arc
 
