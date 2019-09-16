@@ -1,0 +1,8 @@
+not a flight sim
+
+Proposal presentation
+	overview: Ross
+	Platforms, Plan for art and audio content for the game: Morgan
+	Division of Labor, Schedule: Jordan
+	First playable commitments: Zach
+
