@@ -1,17 +1,21 @@
 break down tasks in more detail. Programming not tasks
-	AI
-		enemies (ross)
-			giant ground insect? (jordan)
-				behavior
-				attack
-				movement
-			flying 
-				behavior
-				attack
-				movement
-		friends 
-			railgun
-			tanks
+	
+	enemies
+		giant ground insect? (jordan)
+			behavior [AI] 
+			attack
+			movement
+			model
+			animation
+		flying (ross)
+			behavior [AI] 
+			attack
+			movement
+			animation
+			model
+	friends 
+		railgun
+		tanks
 	player Ship 
 		3d model (ross)
 		movement (ross) 
@@ -23,20 +27,10 @@ break down tasks in more detail. Programming not tasks
 		effects (jordan) 
 		collision (ross)
 			-5 hp on collision
-	Enemies
-		giant insect?
-			behavior
-			attack
-			movement
-		flying 
-			behavior
-			attack
-			movement
-		related to AI
-		models
-		weapons
+	
+		
 	Level design
-		objectives(morgan)
+		objectives (morgan)
 		environment (morgan)
 	Story (zach)
 		Characters
@@ -53,9 +47,17 @@ break down tasks in more detail. Programming not tasks
 
 	lighting
 
-	Style 
-		low poly high poly
+	Style/theme
+		sci-fi?
+		militaristic?
+		low poly?
+		high poly?
 
-	menue/hud/ui
-		aim reticle
+	menu
+		pause
+		save
+		quit
+
+	hud/ui
+		weapon aim reticle
 		objective markers
