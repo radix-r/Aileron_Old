@@ -146,6 +146,7 @@ Here is what we currently have for our desert scene.
 ### hud/ui
 * weapon aim reticle
 * objective markers
+* Mini map (Zach)
 
 ### Misc
 
@@ -155,7 +156,8 @@ Here is what we currently have for our desert scene.
 	* save
 	* quit
 * lighting
-* Mini map (Zach)
+* website (Zach)
+* administration (Ross)
 
 
 
