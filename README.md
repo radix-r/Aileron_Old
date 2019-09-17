@@ -36,6 +36,14 @@ Progress as of 9/16/2019
 
 4: Attack alien mothership 
 
+
+#### Style/theme
+* sci-fi
+* militaristic
+* low poly no/minimal texture
+* horrors from another dimension
+
+
 ## Platforms
 
 PC: Windows, Linux, Mac
@@ -68,13 +76,89 @@ Here is what we currently have for our desert scene.
 
 ## Division of labor
 
-Morgan: Textures, music, backgrounds
+### Enemies
 
-Ross: 3D models, programming, administrative 
+* giant ground insect? (jordan)
+	* behavior [AI] 
+	* attack
+	* movement
+	* model
+	* animation
 
-Zach: Website, programming 
+* flying (ross)
+	* behavior [AI] 
+	* attack
+	* movement
+	* animation
+	* model
+	
+### Friends
+ 
+* moon railgun
+	* behavior [AI] 
+	* attack
+	* movement
+	* animation
+	* model
+* tanks
+	* behavior [AI] 
+	* attack
+	* movement
+	* animation
+	* model
+	
+### Player Ship
 
-Jordan: programming, audio, sound effects 
+* 3d model (ross)
+* movement (ross) 
+* Weapons 
+	* gun (jordan)
+	* bomb
+	* railgun
+	* missile
+* effects (jordan) 
+* collision (ross)
+	* subtract hp on collision
+
+### Level design
+
+* objectives (morgan)
+	* level 1
+	* level 2
+	* level 3
+	* level 4
+* environment (morgan)
+	* city
+	* forest
+	* moon
+	* orbit
+
+### Story (zach)
+
+* Characters
+* narration
+* plot
+
+### Progression
+
+* weapon unlocks (Jordan)
+
+### hud/ui
+* weapon aim reticle
+* objective markers
+
+### Misc
+
+* power ups
+* menu
+	* pause
+	* save
+	* quit
+* lighting
+* Mini map (Zach)
+
+
+
 
 ## Schedule
 
