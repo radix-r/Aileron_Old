@@ -94,7 +94,7 @@ Here is what we currently have for our desert scene.
 	
 ### Friends
  
-* moon railgun
+* moon railgun (Ross)
 	* behavior [AI] 
 	* attack
 	* movement
@@ -113,8 +113,8 @@ Here is what we currently have for our desert scene.
 * movement (ross) 
 * Weapons 
 	* gun (jordan)
-	* bomb
-	* railgun
+	* bomb (jordan)
+	* railgun (ross)
 	* missile
 * effects (jordan) 
 * collision (ross)
