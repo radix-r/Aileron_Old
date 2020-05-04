@@ -1,0 +1,5 @@
+{
+    "hp": 50,
+    "collisionDamage": 1,
+    "bumpForce": 100
+}
